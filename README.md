@@ -20,7 +20,7 @@ A professional MQTT scanner and authentication tester tool for identifying and t
 ## Installation
 
 ```bash
-git clone https://github.com/a1c3venom/mqtt-o-matic.git
+git clone https://github.com/anuragkumar31337/mqtt-o-matic.git
 cd mqtt-o-matic
 pip3 install -r requirements.txt
 
