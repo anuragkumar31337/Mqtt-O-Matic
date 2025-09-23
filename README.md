@@ -1,6 +1,6 @@
 # MQTT-O-Matic
 
-A professional MQTT scanner and authentication tester tool for identifying and testing MQTT brokers.
+Mqtt-O-Matic is a Python-based command-line tool designed for efficiently auditing the security posture of multiple MQTT brokers by scanning for common vulnerabilities.
 
 ![MQTT-O-Matic](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-green.svg)
